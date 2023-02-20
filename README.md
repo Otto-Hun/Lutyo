@@ -1,3 +1,4 @@
 # Lutyo
 Gumicukor
 //akármi
+//semmi
